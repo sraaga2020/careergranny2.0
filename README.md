@@ -5,7 +5,7 @@
 ![AI Powered](https://img.shields.io/badge/AI-Powered-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**LearnX** is an AI-powered platform that helps high school students explore careers, discover opportunities, and build structured learning roadmaps tailored to their interests and strengths.
+**Career Granny** is an AI-powered platform that helps high school students explore careers, discover opportunities, and build structured learning roadmaps tailored to their interests and strengths.
 
 ---
 
@@ -17,7 +17,7 @@ Students today face:
 - Unreliable or scattered online information  
 - Difficulty using AI tools effectively  
 
-**LearnX solves this** by combining career discovery, opportunity matching, and guided skill-building into one unified platform.
+**Career Granny solves this** by combining career discovery, opportunity matching, and guided skill-building into one unified platform.
 
 ---
 
@@ -86,6 +86,6 @@ Students today face:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/learnx.git
-cd learnx
+git clone https://github.com/yourusername/careergranny2.0.git
+cd careergranny2.0
 pip install -r requirements.txt
