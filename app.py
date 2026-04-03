@@ -36,7 +36,7 @@ def serpapi_search(query, num_results=1):
 
 
 # --- APP CONFIGURATION ---
-st.set_page_config(page_title="LearnX", layout="wide", page_icon="🚀")
+st.set_page_config(page_title="Career Granny", layout="wide", page_icon="🚀")
 
 # --- PROFESSIONAL STYLING ---
 st.markdown("""
@@ -110,7 +110,7 @@ with st.sidebar:
 
 # STEP 1: SMART INPUT
 if st.session_state.step == 1:
-    st.title("🎓 LearnX")
+    st.title("Career Granny")
     st.markdown("#### *Let's build your personalized future roadmap.*")
     
     col1, col2 = st.columns([1, 1])
