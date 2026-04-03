@@ -85,7 +85,7 @@ def save_profile():
             "target": st.session_state.target
         }
         st.session_state.profiles.append(profile)
-        st.toast("✅ Profile saved to sidebar!")
+        st.toast("✅ Profile saved!")
 
 # --- SIDEBAR: PROFILE MANAGEMENT ---
 with st.sidebar:
